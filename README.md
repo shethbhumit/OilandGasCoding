@@ -5,5 +5,4 @@ There is a very complicated method through the graphs. But using this correlatio
 Also the difference between both the values of Z-factor is quite negligible. 
 
 This graph is used to calculate the Z factor manually.
-
 <img src ="img.png" width="200" height="300">
