@@ -26,3 +26,4 @@ Specifically for Oil and gas these equations are modified as:
 ### File 3: Casing Seat Selection
 
 My third code in python is solving the casing seat selection in drilling engineering domain with the help of python language. I have used numpy.interp in the eaton's curve to calculate the depth at which casing needs to be placed. 
+The pore pressure and fracture pressure data that I have used is available in the Data folder. 
