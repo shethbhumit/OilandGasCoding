@@ -21,3 +21,8 @@ Specifically for Oil and gas these equations are modified as:
 
 <img src ="Images/cap2.JPG" width="150" height="75"> <img src ="Images/cap5.JPG" width="150" height="75"> 
 <img src ="Images/cap1.JPG" width="150" height="75">
+
+
+### File 3: Casing Seat Selection
+
+My third code in python is solving the casing seat selection in drilling engineering domain with the help of python language. I have used numpy.interp in the eaton's curve to calculate the depth at which casing needs to be placed. 
